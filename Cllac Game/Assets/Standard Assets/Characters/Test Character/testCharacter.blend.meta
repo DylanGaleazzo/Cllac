@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 2aeaa79b13aa77d409622a8b10436391
+timeCreated: 1522378633
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Face
+    100004: Head
+    100006: Left_Arm
+    100008: Left_Foot
+    100010: Left_Hand
+    100012: Left_Leg
+    100014: Right_Arm
+    100016: Right_Foot
+    100018: Right_Hand
+    100020: Right_Leg
+    100022: //RootNode
+    100024: Torso
+    100026: Torso_0
+    100028: Torso_001
+    100030: Torso_002
+    100032: Torso_003
+    100034: Torso_004
+    100036: Chest
+    100038: Head_0
+    100040: Left_Ankle
+    100042: Left_Arm_Lower
+    100044: Left_Arm_Upper
+    100046: Left_Fingers
+    100048: Left_Foot_0
+    100050: Left_Hand_0
+    100052: Left_Hip
+    100054: Left_Leg_Lower
+    100056: Left_Leg_Upper
+    100058: Left_Shoulder
+    100060: Left_Thumb
+    100062: Left_Thumb_Connector
+    100064: Left_Wrist
+    100066: Neck
+    100068: Neck_Base
+    100070: Right_Ankle
+    100072: Right_Arm_Lower
+    100074: Right_Arm_Upper
+    100076: Right_Fingers
+    100078: Right_Foot_0
+    100080: Right_Hand_0
+    100082: Right_Hip
+    100084: Right_Leg_Lower
+    100086: Right_Leg_Upper
+    100088: Right_Shoulder
+    100090: Right_Thumb
+    100092: Right_Thumb_Connector
+    100094: Right_Wrist
+    400000: Armature
+    400002: Face
+    400004: Head
+    400006: Left_Arm
+    400008: Left_Foot
+    400010: Left_Hand
+    400012: Left_Leg
+    400014: Right_Arm
+    400016: Right_Foot
+    400018: Right_Hand
+    400020: Right_Leg
+    400022: //RootNode
+    400024: Torso
+    400026: Torso_0
+    400028: Torso_001
+    400030: Torso_002
+    400032: Torso_003
+    400034: Torso_004
+    400036: Chest
+    400038: Head_0
+    400040: Left_Ankle
+    400042: Left_Arm_Lower
+    400044: Left_Arm_Upper
+    400046: Left_Fingers
+    400048: Left_Foot_0
+    400050: Left_Hand_0
+    400052: Left_Hip
+    400054: Left_Leg_Lower
+    400056: Left_Leg_Upper
+    400058: Left_Shoulder
+    400060: Left_Thumb
+    400062: Left_Thumb_Connector
+    400064: Left_Wrist
+    400066: Neck
+    400068: Neck_Base
+    400070: Right_Ankle
+    400072: Right_Arm_Lower
+    400074: Right_Arm_Upper
+    400076: Right_Fingers
+    400078: Right_Foot_0
+    400080: Right_Hand_0
+    400082: Right_Hip
+    400084: Right_Leg_Lower
+    400086: Right_Leg_Upper
+    400088: Right_Shoulder
+    400090: Right_Thumb
+    400092: Right_Thumb_Connector
+    400094: Right_Wrist
+    2300000: Face
+    2300002: Head
+    2300004: Left_Arm
+    2300006: Left_Foot
+    2300008: Left_Hand
+    2300010: Left_Leg
+    2300012: Right_Arm
+    2300014: Right_Foot
+    2300016: Right_Hand
+    2300018: Right_Leg
+    2300020: Torso
+    3300000: Face
+    3300002: Head
+    3300004: Left_Arm
+    3300006: Left_Foot
+    3300008: Left_Hand
+    3300010: Left_Leg
+    3300012: Right_Arm
+    3300014: Right_Foot
+    3300016: Right_Hand
+    3300018: Right_Leg
+    3300020: Torso
+    4300000: Face
+    4300002: Head
+    4300004: Left_Hand
+    4300006: Right_Hand
+    4300008: Left_Foot
+    4300010: Right_Foot
+    4300012: Left_Leg
+    4300014: Right_Leg
+    4300016: Left_Arm
+    4300018: Right_Arm
+    4300020: Torso
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Face
+    13700002: Head
+    13700004: Left_Arm
+    13700006: Left_Foot
+    13700008: Left_Hand
+    13700010: Left_Leg
+    13700012: Right_Arm
+    13700014: Right_Foot
+    13700016: Right_Hand
+    13700018: Right_Leg
+    13700020: Torso
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 2aa442bd7d7b37747839d218d44287a6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 9
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
