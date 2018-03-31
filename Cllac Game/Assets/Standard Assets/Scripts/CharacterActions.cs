@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class CharacterActions : MonoBehaviour {
 
-    
 
+    Animator anim;
 	// Use this for initialization
 	void Start () {
-		
-	}
+        anim = transform.GetComponent<Animator>();
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -18,7 +18,11 @@ public class CharacterActions : MonoBehaviour {
 
     public void DoBlock ()
     {
-        Animator anim = transform.GetComponent<Animator>();
         anim.SetTrigger("doBlock");
+    }
+
+    public void DoDodge ()
+    {
+        anim.SetTrigger("doDodge");
     }
 }
